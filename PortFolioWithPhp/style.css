@@ -1,0 +1,7 @@
+.card{
+    min-height: 500px;
+    max-height: 500px;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 5px black;
+}
